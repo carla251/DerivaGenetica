@@ -5,4 +5,4 @@ En este github se puede encontrar:
 - Los scripts para la simulación de los distintos cruces para las cadenas de Markov: simulacion_prob_cruc_escX_cruceX_XXxXX.R
 - Los scripts para la simulación que se llevó a cabo inicialmente solo con las funciones creadas: escenario_X.R
 - El script con la función camada modificada para utilizar un banco de datos con todos los nucleótidos del genoma: prueba_genoma_1bdd.R
-- En resultados_matrices.R se puede ver las matrices obtenidas de la simulación y los cálculos que se han hecho con ellas.
+- En resultados_matrices.R se puede ver las matrices obtenidas de la simulación y los cálculos que se han realizado con ellas.
